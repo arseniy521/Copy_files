@@ -1,0 +1,14 @@
+<config>
+
+    <file
+            source_path="C:\Windows\system32"
+            destination_path="C:\Program files"
+            file_name="kernel32.dll"
+    />
+
+    <file
+            source_path="/Users/arseniy/books"
+            destination_path="/Users/arseniy/books/PM"
+            file_name="md1.ddl.rtf"
+    />
+</config>
